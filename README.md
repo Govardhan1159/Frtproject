@@ -36,8 +36,7 @@ as our solution we made a webpage that where we kept few sessions and their clou
  -  Easy to Navigate in Both Mobile and Deaktop
  
 # Screenshot
-![pc cap](https://user-images.githubusercontent.com/110035582/197511434-dfb6eaf9-c80c-4394-999f-176908ee8bd0.png)
-
+![pc captr](https://user-images.githubusercontent.com/112303626/197860511-ca003757-3bb4-450e-ae84-8ccb11f240b4.png)
 
 # About Us
 We are BTech pursuing Students,from 3rd year we consider this as problem as we facing the same situtaion regularly.our team
