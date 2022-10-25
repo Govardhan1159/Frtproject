@@ -1,4 +1,4 @@
-# # Future Ready Talent - Memorial Books
+# # Future Ready Talent - Online Education
 
 
 
@@ -6,8 +6,8 @@ AZURE LINK : https://agreeable-mud-0b1eb1410.1.azurestaticapps.net
 
 
 
-Memorial Books is our project that is done as the solution , is a collection of various famous books 
-as our solution we made a webpage that where we kept few books and their cloud links in our site which is used to help and download file that required
+Online Education is our project that is done as the solution , is a collection of various Online classes 
+as our solution we made a webpage that where we kept few sessions and their cloud links in our site which is used to learn courses which we required
 
 
 # Features
