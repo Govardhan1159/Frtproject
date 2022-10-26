@@ -47,7 +47,7 @@ We are BTech pursuing Students,from 3rd year we consider this as problem as we f
 
 -  Ch Sireesha
 
--  P sowjanya
+-  
 
 
 # Privacy Policies 
